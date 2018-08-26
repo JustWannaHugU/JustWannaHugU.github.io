@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: 从善如流 Jekyll Theme
+title: 从善如流
 ---
